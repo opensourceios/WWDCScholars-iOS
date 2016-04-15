@@ -91,11 +91,18 @@ class DatabaseManager {
     }
     
     /**
-     Removes all scholars from the current Realm. Use with caution!
+     Removes all data (scholars AND blog posts) from the current (local) Realm. Use with caution!
      */
-    func deleteAllScholars() {
+    func deleteAllData() {
         try! realm.write {
             realm.deleteAll()
         }
+    }
+    
+    func addBlogPost(post: BlogPost) {
+        try! realm.write {
+            realm.add(post, update: true) // Don't add the scholar if he/she already exists
+        }
+        print ("Added \(post)")
     }
 }
