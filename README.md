@@ -1,3 +1,16 @@
+Design Suggestions so app will be inline with this year's theme.
+
+NavBar Color change and white translucent background for the ScholarsLabel
+Samples: (Can be Mixed Matched)
+
+* Blue Green NavBar text and Helvetica Neue Light and white translucent background on ScholarsLabel
+* Green text NarBar text and Menlo and white translucent background on ScholarsLabel
+* Purple NavBar text and Helvetica Neue Light and white translucent background on ScholarsLabel
+
+<img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/BlueGreen.png" width="200">
+<img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/Green.png" width="200">
+<img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/purple.png" width="200">
+
 # WWDC Scholars iOS App [![Build Status](https://travis-ci.org/WWDCScholars/WWDCScholars-iOS.svg?branch=master)](https://travis-ci.org/WWDCScholars/WWDCScholars-iOS)
 
 We are currently working on our new iOS portfolio app for WWDCScholars.
