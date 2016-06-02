@@ -14,7 +14,9 @@ Samples: (Can be Mixed Matched)
 NOTE: Improve Icon for the Tab Bar Below. Change Graduation Cap to something better, also the blog icon if there is something else available.
 
 * Grey NavBar text for Credit Section. Colors can be improve and font too.
+
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/Credits.png" width="200">
+
 NOTE: Change Icons to list of task contributed by a scholar.
 
 # WWDC Scholars iOS App [![Build Status](https://travis-ci.org/WWDCScholars/WWDCScholars-iOS.svg?branch=master)](https://travis-ci.org/WWDCScholars/WWDCScholars-iOS)
