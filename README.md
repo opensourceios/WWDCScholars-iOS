@@ -18,9 +18,10 @@ NOTE: Improve Icon for the Tab Bar Below. Change Graduation Cap to something bet
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/ScholarsDetailTop.png" width="200">
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/ScholarsDetailBottom.png" width="200">
 
-* For Blog List Section (Gradient style and font colors can be improved)
+* For Blog Section (Gradient style and font colors can be improved) (Image 1 - Blog List, Image 2 - Single Blog Post)
 
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/Blog.png" width="200">
+<img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/SingleBlogPost.png" width="200">
 
 * Grey NavBar text for Credit Section. Colors can be improve and font too.
 
