@@ -98,7 +98,7 @@ extension UISegmentedControl {
     func applyScholarsSegmentedStyle() {
         
         //Styling using WWDC16
-        self.tintColor = UIColor.wwdc16Purple()
+        self.tintColor = UIColor.wwdc16BlueGreen()
 
     }
 }
