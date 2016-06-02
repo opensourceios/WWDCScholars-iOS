@@ -11,7 +11,7 @@ Samples: (Can be Mixed Matched)
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/Green.png" width="200">
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/purple.png" width="200">
 
-NOTE: Improve Icon for the Tab Bar Below. Change Graduation Cap to something better, also the blog icon if there is something else available.
+NOTE: Improve Icon for the Tab Bar Below. Change Graduation Cap to something better, also the blog icon if there is something else available. Make it Dark Grey instead of Purple.
 
 * Grey NavBar text for Credit Section. Colors can be improve and font too.
 
