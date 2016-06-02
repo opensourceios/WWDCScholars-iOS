@@ -27,15 +27,15 @@ class BlogPostTableViewCell: UITableViewCell {
     private func styleUI() {
         let blurEffect = UIBlurEffect(style: .Dark)
         let blurEffectView = UIVisualEffectView(effect: blurEffect)
-        blurEffectView.frame = self.postDetailsContainerView.bounds
+//        blurEffectView.frame = self.postDetailsContainerView.bounds
         blurEffectView.autoresizingMask = [.FlexibleWidth, .FlexibleHeight]
         blurEffectView.alpha = 0.75
         
-        self.postDetailsContainerView.addSubview(blurEffectView)
-        self.postDetailsContainerView.bringSubviewToFront(self.postTitleLabel)
-        self.postDetailsContainerView.bringSubviewToFront(self.detailsStackView)
+//        self.postDetailsContainerView.addSubview(blurEffectView)
+//        self.postDetailsContainerView.bringSubviewToFront(self.postTitleLabel)
+//        self.postDetailsContainerView.bringSubviewToFront(self.detailsStackView)
         
-        self.postDateLabel.textColor = UIColor.mediumWhiteTextColor()
+//        self.postDateLabel.textColor = UIColor.mediumWhiteTextColor()
     }
     
     // MARK: - Public Functions
