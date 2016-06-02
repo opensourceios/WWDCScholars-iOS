@@ -281,7 +281,7 @@
                                                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ysQ-0V-odl">
                                                                             <rect key="frame" x="0.0" y="4" width="584" height="340"/>
                                                                             <subviews>
-                                                                                <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="Tmo-tM-mm1">
+                                                                                <segmentedControl hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="Tmo-tM-mm1">
                                                                                     <rect key="frame" x="8" y="49" width="568" height="29"/>
                                                                                     <constraints>
                                                                                         <constraint firstAttribute="height" constant="28" id="rwh-mr-Utv"/>
