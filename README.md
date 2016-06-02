@@ -11,6 +11,12 @@ Samples: (Can be Mixed Matched)
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/Green.png" width="200">
 <img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/purple.png" width="200">
 
+NOTE: Improve Icon for the Tab Bar Below. Change Graduation Cap to something better, also the blog icon if there is something else available.
+
+* Grey NavBar text for Credit Section. Colors can be improve and font too.
+<img src="https://github.com/WWDCScholars/DesignStyleAndAssets/blob/MichieDesignSuggestion/Michie%20Design%20Suggestion/Credits.png" width="200">
+NOTE: Change Icons to list of task contributed by a scholar.
+
 # WWDC Scholars iOS App [![Build Status](https://travis-ci.org/WWDCScholars/WWDCScholars-iOS.svg?branch=master)](https://travis-ci.org/WWDCScholars/WWDCScholars-iOS)
 
 We are currently working on our new iOS portfolio app for WWDCScholars.
